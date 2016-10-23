@@ -1,0 +1,10 @@
+/* Modifies the font family of the body of the html page to a sans-serif font */
+body{
+	font-family: sans-serif;
+}
+
+/* Modifies all h1 elements to a purple text colour with underlining */
+h1{
+	color: purple;
+	text-decoration:underline;
+}

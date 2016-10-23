@@ -1,21 +1,8 @@
-@media (min-width:500px){
-	body{
-		background: red;
-	}
-}
-
-@media (min-width:1000px){
-	body{
-		background: green;
-	}
-}
-
-/*
+/* Old items superceded by bootstrap
 body{
 	background: black;
 	color: white;
 }
-*/
 
 a{
 	color: grey;
@@ -44,4 +31,10 @@ h1{
 
 .gap_below{
 	margin-bottom:25px;
+}
+*/
+
+/* Use this to put borders around things */
+.thin_border{
+	border: 1px solid black;
 }
