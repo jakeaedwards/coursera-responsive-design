@@ -1,7 +1,21 @@
+@media (min-width:500px){
+	body{
+		background: red;
+	}
+}
+
+@media (min-width:1000px){
+	body{
+		background: green;
+	}
+}
+
+/*
 body{
 	background: black;
 	color: white;
 }
+*/
 
 a{
 	color: grey;
