@@ -14,7 +14,20 @@ a:hover{
 	text-decoration: none;
 }
 
+.green_link:hover{
+	color:green;
+	background: grey;
+}
+
 h1{
 	font-family: "Times New roman" serif;
 	font-size: 40pt;
+}
+
+.indent{
+	margin-left:10px;
+}
+
+.gap_below{
+	margin-bottom:25px;
 }
