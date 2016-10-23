@@ -5,4 +5,16 @@ body{
 
 a{
 	color: grey;
+	text-decoration: none;
+}
+
+a:hover{
+	color: black;
+	background: white;
+	text-decoration: none;
+}
+
+h1{
+	font-family: "Times New roman" serif;
+	font-size: 40pt;
 }
